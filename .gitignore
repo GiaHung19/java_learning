@@ -15,3 +15,7 @@
 out/
 build/
 target/
+
+src/collections_demo/
+src/package_demo/
+src/student_manager/
